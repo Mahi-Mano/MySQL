@@ -1,10 +1,12 @@
--- Create a database named "University" and switch to that database.
--- Create a table named "Students" with the following columns:
--- student_id (INT, primary key)
--- student_name (VARCHAR(50))
--- student_age (INT)
--- student_major (VARCHAR(50))
--- Insert at least 5 records into the "Students" table with different student details.
+/*
+Create a database named "University" and switch to that database.
+Create a table named "Students" with the following columns:
+student_id (INT, primary key)
+student_name (VARCHAR(50))
+student_age (INT)
+student_major (VARCHAR(50))
+Insert at least 5 records into the "Students" table with different student details.
+*/
 
 create database University;
 use University;
