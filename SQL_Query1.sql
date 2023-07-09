@@ -1,5 +1,5 @@
--- Project 1
-/*
+-- SQL PROJECT 1:
+/* Question:
 Create a database named "University" and switch to that database.
 Create a table named "Students" with the following columns:
 student_id (INT, primary key)
