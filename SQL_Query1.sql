@@ -1,3 +1,4 @@
+-- Project 1
 /*
 Create a database named "University" and switch to that database.
 Create a table named "Students" with the following columns:
